@@ -1,0 +1,12 @@
+{
+  "name": "BoT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CleyssonDias <85259555+CleyssonDias@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^8.1.0",
+    "discord.js": "^14.7.1",
+    "quick.db": "^9.0.8"
+  }
+}
